@@ -1,5 +1,5 @@
 Hi, I'm Daniel! 👋
-Software engineer & Full Stack Developer 🧑🏻‍💻
+Full Stack Developer 🧑🏻‍💻
 
 ## About me
 
